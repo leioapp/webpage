@@ -1,6 +1,4 @@
-
 ---
-layout: default
 title: Terms and Conditions
 ---
 
