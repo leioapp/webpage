@@ -2,8 +2,6 @@
 title: Terms and Conditions
 ---
 
-# Terms and Conditions
-
 Last updated: July 25, 2025
 
 **By using Leio, you agree to these Terms and Conditions and our Privacy Policy. If you do not agree, do not use the app.**

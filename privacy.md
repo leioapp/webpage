@@ -2,8 +2,6 @@
 title: Privacy Policy
 ---
 
-# Privacy Policy
-
 Last updated: July 25, 2025
 
 This Privacy Policy describes how Leio (“we”, “us”, or “our”) collects, uses, and protects your information when you use our mobile application (“Service”). By using Leio, you agree to the collection and use of information in accordance with this policy.
