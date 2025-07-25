@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Leio Legal
+title: Leio
 ---
 
 # Leio Legal
